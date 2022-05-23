@@ -17,12 +17,12 @@
 // Ctrl	  Ctrl  Ctrl	Win	Alt	SPC			SPC	SPC		SPC	SPC			SPC	←	↓	     →		RETURN	RETURN	
 
             bindings = <
-&kp ESC              &kp F1     &kp F2   &kp F3    &kp F4    &kp F5    &kp F6    &kp F7                           &kp F8    &kp F9    &kp F10   &kp F11    &kp F12   &kp F13    &kp F14               &kb F15
-&kp GRAVE            &kp N1     &kp N2   &kp N3    &kp N4    &kp N5    &kp N6    &kp N7                           &kp N8    &kp N9    &kp N0    &kp MINUS  &kp EQUAL &kp BSPC   &kb BSPC              &kb INSERT
-&kp TAB    &kp TAB   &kp TAB    &kp Q    &kp W     &kp E     &kp R     &kp T     &kp Y                            &kp U     &kp I     &kp O     &kp P      &kp LBKT  &kp RBKT   &kp BSLH   &kb DEL    &kb DEL
-&kp CAPS             &kp CAPS   &kp A    &kp S     &kp D     &kp F     &kp G     &kp H                            &kp J     &kp K     &kp L     &kp SEMI   &kp SQT   &kb RETURN &kb RETURN            &kb F16
-&kp LSHIFT           &kp LSHIFT &kp Z    &kp X     &kp C     &kp V     &kp B     &kp SPACE                        &kp N     &kp M     &kp COMMA &kp PERIOD &kp SLASH &kb UP     &kb RETURN            &kb RETURN
-&kp LCTRL  &kp LCTRL &kp LCTRL  &kp LGUI &kp LALT  &kp SPACE                     &kp SPACE &kp SPACE    &kp SPACE &kp SPACE                     &kp SPACE  &kp LEFT  &kp DOWN   &kp RIGHT  &kb RETURN &kb RETURN
+&kp ESC              &kp F1     &kp F2   &kp F3    &kp F4    &kp F5    &kp F6    &kp F7                           &kp F8    &kp F9    &kp F10   &kp F11    &kp F12   &kp F13    &kp F14               &kp F15
+&kp GRAVE            &kp N1     &kp N2   &kp N3    &kp N4    &kp N5    &kp N6    &kp N7                           &kp N8    &kp N9    &kp N0    &kp MINUS  &kp EQUAL &kp BSPC   &kp BSPC              &kp INSERT
+&kp TAB    &kp TAB   &kp TAB    &kp Q    &kp W     &kp E     &kp R     &kp T     &kp Y                            &kp U     &kp I     &kp O     &kp P      &kp LBKT  &kp RBKT   &kp BSLH   &kp DEL    &kp DEL
+&kp CAPS             &kp CAPS   &kp A    &kp S     &kp D     &kp F     &kp G     &kp H                            &kp J     &kp K     &kp L     &kp SEMI   &kp SQT   &kp RETURN &kp RETURN            &kp F16
+&kp LSHIFT           &kp LSHIFT &kp Z    &kp X     &kp C     &kp V     &kp B     &kp SPACE                        &kp N     &kp M     &kp COMMA &kp PERIOD &kp SLASH &kp UP     &kp RETURN            &kp RETURN
+&kp LCTRL  &kp LCTRL &kp LCTRL  &kp LGUI &kp LALT  &kp SPACE                     &kp SPACE &kp SPACE    &kp SPACE &kp SPACE                     &kp SPACE  &kp LEFT  &kp DOWN   &kp RIGHT  &kp RETURN &kp RETURN
             >;
 		};
     };
