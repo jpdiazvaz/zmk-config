@@ -1,0 +1,5 @@
+config SHIELD_UNDIE_LEFT
+	def_bool $(shields_list_contains,undie_left)
+
+config SHIELD_UNDIE_RIGHT
+	def_bool $(shields_list_contains,undie_right)
