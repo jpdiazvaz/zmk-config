@@ -17,8 +17,5 @@ include:
     shield: undie_left
   - board: nice_nano_v2
     shield: undie_right
-include:
   - board: nice_nano_v2
-    shield: undie_left
-  - board: nice_nano_v2
-    shield: undie_right
+    shield: settings_reset
